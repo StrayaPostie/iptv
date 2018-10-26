@@ -12,6 +12,9 @@ http://iptv.matthuisman.nz/au/Sydney/tv.101204200421.m3u8|X-Forwarded-For=52.62.
 #EXTINF:-1 tvg-name="022" tvg-id="tv.101305020520" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020520.png",Seven
 http://iptv.matthuisman.nz/au/Sydney/tv.101305020520.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 
+#EXTINF:-1 tvg-name="022" tvg-id="tv.101305020520" tvg-logo="https://raw.githubusercontent.com/strayapostie/iptv/master/au/images/cbsnw.png",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_1200_av-p.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
 #EXTINF:-1 tvg-name="001" tvg-id="tv.101305020522" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020522.png",7TWO
 http://iptv.matthuisman.nz/au/Sydney/tv.101305020522.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 
